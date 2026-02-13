@@ -88,8 +88,8 @@ function launchConfetti() {
 
 yesBtn.addEventListener("click", () => {
   document.body.classList.add("celebrate");
-  result.textContent = "Congratulations you made the right choice now come give me a kiss 💋";
+  result.textContent = "Wow Good Job Puchu You Made The Right Choice, Proud Of You Come Give Me A Puchhi Now 😘";
   launchConfetti();
   yesBtn.disabled = true;
-  yesBtn.textContent = "Best choice ever 💖";
+  yesBtn.textContent = "Sahi Jawab!!! 7 Crore 💰💰";
 });
